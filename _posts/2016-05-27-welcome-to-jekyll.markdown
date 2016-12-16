@@ -8,6 +8,12 @@ categories: jekyll update
 
 لإضافة منشورات جديدة, ببساطة أضف ملف جديد في مجلد `posts_` يتبع الإمتداد `YYYY-MM-DD-name-of-post.ext` و أدخل مدخلات ال front matter الضرورية. ألقي نظرة على اكواد المصدر الخاصة بهذا الملف للحصول على فكرة عن كيفية عمل المنشورات.
 
+This blog is powered by the [Sage Cell Server](http://sagecell.sagemath.org/). You can type Sage/Python code into the cell below, and press `Shift+Enter` to evaluate it (or click "Evaluate").
+
+<div class="all">
+  <script type="text/x-sage"> 1 + 2  </script>
+</div>
+
 جيكل يقدم دعم قوي للقطات الأكواد:
 {:style="direction:ltr;"}
 {% highlight ruby %}
